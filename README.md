@@ -1,0 +1,2 @@
+# scales
+oriental music scales
